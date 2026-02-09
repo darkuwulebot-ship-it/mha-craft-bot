@@ -1,0 +1,31 @@
+[
+  {
+    "slot": "Plastron",
+    "rarity": "Legendaire",
+    "resources": {
+      "Acier renforce": 40,
+      "Fibre": 8,
+      "Cristaux energetique": 6,
+      "Plasma": 2,
+      "Gemme": 1
+    }
+  },
+  {
+    "slot": "Pantalon",
+    "rarity": "Legendaire",
+    "resources": {
+      "Acier renforce": 25,
+      "Fibre": 10,
+      "Cristaux energetique": 4,
+      "Plasma": 1
+    }
+  },
+  {
+    "slot": "Bottes",
+    "rarity": "Rare",
+    "resources": {
+      "Resine": 8,
+      "Cable electrique": 6
+    }
+  }
+]

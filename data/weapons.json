@@ -1,0 +1,59 @@
+[
+  {
+    "id": "katana_bois",
+    "name": "Katana en Bois",
+    "rarity": "Commun",
+    "known": true,
+    "resources": {
+      "Bois": 40
+    }
+  },
+  {
+  "id": "katana_emousse",
+  "name": "Katana émoussé",
+  "rarity": "Commun",
+  "known": true,
+  "resources": {
+    "Acier renforce": 10,
+    "Manche en Tissu": 1,
+    "Katana en bois": 1
+  }
+},
+  {
+  "id": "katana_rare",
+  "name": "Katana",
+  "rarity": "Rare",
+  "known": true,
+  "resources": {
+    "Acier renforce": 25,
+    "Manche en Tissu": 1,
+    "Katana émoussé": 1
+  }
+},
+  {
+  "id": "katana_epique",
+  "name": "Katana Arcanique",
+  "rarity": "Epic",
+  "known": true,
+  "resources": {
+    "Katana": 1,
+    "Lingot Trempe": 60,
+    "Cristaux energetique": 100,
+    "Gemme": 5
+  }
+ },
+  {
+  "id": "katana_legendaire",
+  "name": "Katana Draconique",
+  "rarity": "Legendaire",
+  "known": false,
+  "resources": {
+    "Katana Arcanique": 1,
+    "Lingot Trempe": 120,
+    "Cristaux energetique": 200,
+    "Gemme": 10,
+    "Plasma": 2
+  }
+}
+
+]

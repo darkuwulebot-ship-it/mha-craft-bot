@@ -1,0 +1,38 @@
+{
+  "Bobine de Cuivre": {
+    "yields": 2,
+    "from": { "Cable electrique": 1 }
+  },
+  "Silice Pure": {
+    "yields": 2,
+    "from": { "Eclat de verre": 1 }
+  },
+  "Poudre de Verre": {
+    "yields": 2,
+    "from": { "Eclat de verre": 1 }
+  },
+  "Caoutchou": {
+    "yields": 2,
+    "from": { "Cable electrique": 1 }
+  },
+  "Manche en Tissu": {
+    "yields": 1,
+    "from": {"Bois": 50,"Fibre": 3}
+  },
+  "Polymere Renforce": {
+    "yields": 2,
+    "from": { "Resine": 1 }
+  },
+  "Engrenage": {
+    "yields": 2,
+    "from": { "Acier renforce": 1 }
+  },
+  "Lingot Trempe": {
+    "yields": 2,
+    "from": { "Acier renforce": 1 }
+  },
+  "Solvant Chimique": {
+    "yields": 2,
+    "from": { "Resine": 1 }
+  }
+}
