@@ -1,5 +1,4 @@
 [
-  // ===== COMMUN =====
    {
     "slot": "Casque",
     "rarity": "Commun",
@@ -45,8 +44,6 @@
       "Fibre": 2
     }
   },
-
-  // ===== RARE =====
   {
     "slot": "Pantalon",
     "rarity": "Rare",
@@ -84,3 +81,4 @@
     }
   }
 ]
+
