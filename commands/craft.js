@@ -236,7 +236,7 @@ module.exports = {
         .addFields(
           { name: '🧾 Plan', value: `${planPrice.toLocaleString()}¥`, inline: true },
           { name: '💴 Coût total', value: `**${grandTotal.toLocaleString()}¥**`, inline: true },
-          { name: '🧱 Détails (lisible)', value: toTreeBlock(lines) }
+          { name: '🧱 Détails', value: toTreeBlock(lines) }
         );
 
       return replyAndDelete(interaction, { embeds: [embed] });
@@ -292,3 +292,4 @@ module.exports = {
     }
   }
 };
+
