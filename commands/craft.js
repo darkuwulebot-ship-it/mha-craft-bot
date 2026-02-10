@@ -285,11 +285,12 @@ module.exports = {
         .addFields(
           { name: 'Rareté', value: katana.rarity, inline: true },
           { name: '💴 Coût total', value: `**${total.toLocaleString()}¥**`, inline: true },
-          { name: '🧱 Détails (lisible)', value: toTreeBlock(lines) }
+          { name: '🧱 Détails', value: toTreeBlock(lines) }
         );
 
       return replyAndDelete(interaction, { embeds: [embed] });
     }
   }
 };
+
 
