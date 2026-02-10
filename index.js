@@ -74,7 +74,7 @@ client.on('interactionCreate', async interaction => {
 // =======================
 // Connexion
 // =======================
-require('dotenv').config();
 client.login(process.env.DISCORD_TOKEN);
+
 
 
