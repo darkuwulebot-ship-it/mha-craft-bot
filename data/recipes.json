@@ -1,31 +1,86 @@
 [
+  // ===== COMMUN =====
+   {
+    "slot": "Casque",
+    "rarity": "Commun",
+    "resources": {
+      "Eclat de verre": 22,
+      "Resine": 11,
+      "Cristaux energetique": 2
+    }
+  },
   {
     "slot": "Plastron",
-    "rarity": "Legendaire",
+    "rarity": "Commun",
     "resources": {
-      "Acier renforce": 40,
-      "Fibre": 8,
-      "Cristaux energetique": 6,
-      "Plasma": 2,
-      "Gemme": 1
+      "Eclat de verre": 22,
+      "Resine": 11,
+      "Cristaux energetique": 2
+    }
+  },
+  {
+    "slot": "Bottes",
+    "rarity": "Commun",
+    "resources": {
+      "Eclat de verre": 23,
+      "Resine": 10,
+      "Cristaux energetique": 2
     }
   },
   {
     "slot": "Pantalon",
-    "rarity": "Legendaire",
+    "rarity": "Commun",
     "resources": {
-      "Acier renforce": 25,
-      "Fibre": 10,
-      "Cristaux energetique": 4,
-      "Plasma": 1
+      "Cable electrique": 22,
+      "Acier renforce": 11,
+      "Fibre": 2
+    }
+  },
+  {
+    "slot": "Gants",
+    "rarity": "Commun",
+    "resources": {
+      "Cable electrique": 21,
+      "Acier renforce": 12,
+      "Fibre": 2
+    }
+  },
+
+  // ===== RARE =====
+  {
+    "slot": "Pantalon",
+    "rarity": "Rare",
+    "resources": {
+      "Cable electrique": 10,
+      "Acier renforce": 17,
+      "Fibre": 8
     }
   },
   {
     "slot": "Bottes",
     "rarity": "Rare",
     "resources": {
-      "Resine": 8,
-      "Cable electrique": 6
+      "Eclat de verre": 10,
+      "Resine": 18,
+      "Cristaux energetique": 7
+    }
+  },
+  {
+    "slot": "Plastron",
+    "rarity": "Rare",
+    "resources": {
+      "Cable electrique": 10,
+      "Acier renforce": 18,
+      "Fibre": 7
+    }
+  },
+  {
+    "slot": "Casque",
+    "rarity": "Rare",
+    "resources": {
+      "Eclat de verre": 9,
+      "Resine": 17,
+      "Cristaux energetique": 8
     }
   }
 ]
