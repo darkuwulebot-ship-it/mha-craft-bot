@@ -79,6 +79,16 @@
       "Resine": 17,
       "Cristaux energetique": 8
     }
-  }
+  },
+    {
+    "slot": "Gants",
+    "rarity": "Rare",
+    "resources": {
+      "Eclat de verre": 9,
+      "Resine": 16,
+      "Cristaux energetique": 8
+    }
+  },
 ]
+
 
