@@ -44,7 +44,7 @@
  },
   {
   "id": "katana_legendaire",
-  "name": "Katana Draconique",
+  "name": "Katana Demoniaque",
   "rarity": "Legendaire",
   "known": false,
   "resources": {
@@ -57,3 +57,4 @@
 }
 
 ]
+
