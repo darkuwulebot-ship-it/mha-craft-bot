@@ -30,8 +30,8 @@ for (const file of commandFiles) {
 // =======================
 // Bot prêt
 // =======================
-client.once('ready', () => {
-  console.log(`🤖 Bot connecté : ${client.user.tag}`);
+client.once('clientReady', () => {
+  console.log('Bot prêt');
 });
 
 // =======================
@@ -75,6 +75,7 @@ client.on('interactionCreate', async interaction => {
 // Connexion
 // =======================
 client.login(process.env.DISCORD_TOKEN);
+
 
 
 
